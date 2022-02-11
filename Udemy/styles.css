@@ -1,0 +1,25 @@
+/* Selector
+
+*/
+body{
+    background-image: url(https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg);
+    background-size: cover;
+}
+
+h2,p {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgb(225, 176, 170);
+    cursor: pointer;
+}
+
+p{
+    color: pink;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+

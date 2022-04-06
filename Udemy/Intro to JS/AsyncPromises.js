@@ -47,3 +47,11 @@ Promise.all(urls.map(url => {
 
 //tying it all together with async function + await
 //introducing try/catch
+
+const getData = async function() {
+    try {
+        //insert promises **
+    } catch (err) {
+        console.log(err, 'We caught an error')
+    }
+}
